@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""primer programa que busca palabras en un texto de Internet
+"""Primer programa que busca palabras en un texto de Internet
 Usage:
 python3 (url)"""
 
